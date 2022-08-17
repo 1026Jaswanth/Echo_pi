@@ -3,6 +3,7 @@
 * install 32 rpi desktop os/ lite os 
 * updtae the config.txt file
 * installing samba 
+* installing pygame
 
 >sudo nano /boot/config.txt
 ```
