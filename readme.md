@@ -1,6 +1,6 @@
 # **Echo-Echo-Rpi**
 ## _Pre requisites to develop_
-* install 32 rpi desktop os/ lite os 
+* install 32bit rpi lite os 
 * updtae the config.txt file
 * installing samba 
 * installing pygame
