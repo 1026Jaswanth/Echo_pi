@@ -53,7 +53,7 @@ set id and password for sftp server and restart the service
 
 >sudo systemctl restart smbd
 
-##pygame installation
+## pygame installation
 >sudo apt-get install python3-pygame
 
 >sudo apt-get install libsdl2-mixer-2.0-0
