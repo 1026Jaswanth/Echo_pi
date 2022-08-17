@@ -52,28 +52,6 @@ set id and password for sftp server and restart the service
 
 >sudo systemctl restart smbd
 
-### Installing OMXplayer
-
->sudo apt update
-
->sudo apt install snapd
-
-reboot the device
->sudo snap install core
-
-Install omxplayer 
->sudo snap install omxplayer-pi
-
-using omxplayer 
->omxplayer-pi example.mp3 -o alsa:hw:1,0
-
-### Increase volume
-
->omxplayer-pi --vol 1000 VC.mp3
-
-### Omx player keys control command
->omxplayer-pi --keys
-
 ##pygame installation
 >sudo apt-get install python3-pygame
 
