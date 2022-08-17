@@ -64,7 +64,7 @@ command alternative for bash gpio control
 
 >>>sudo systemctl enable PiPlayer.service
 
-##finding ip adress and ssid using text to speech installations
+## finding ip adress and ssid using text to speech installations
 >sudo apt-get install festival -y
 ## nodered wifi changer 
 
