@@ -1,0 +1,38 @@
+[
+    {
+        "id": "d1ea316d.10c3d",
+        "type": "ui_text",
+        "z": "f0a27113.452c7",
+        "group": "a1e7431b.229d5",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "IP",
+        "format": "{{msg.payload || '---'}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 990,
+        "y": 141,
+        "wires": []
+    },
+    {
+        "id": "a1e7431b.229d5",
+        "type": "ui_group",
+        "name": "Settings",
+        "tab": "907bbe60.b555f",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "907bbe60.b555f",
+        "type": "ui_tab",
+        "name": "Echo_Wifi",
+        "icon": "wifi",
+        "disabled": false,
+        "hidden": false
+    }
+]
